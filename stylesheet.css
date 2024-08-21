@@ -1,1 +1,3 @@
-
+.background {
+  background: url("https://cdn.frooition.com/220069/files/shared_repeater.jpg") center repeat-y, url("https://cdn.frooition.com/220069/files/background.jpg") center bottom repeat-x; 
+}
